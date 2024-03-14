@@ -1,0 +1,111 @@
+.honrix-entries .posts article .post-thumbnail {
+  position: relative;
+  overflow: hidden;
+}
+
+.honrix-entries .posts article .post-thumbnail a {
+  display: block;
+  max-width: 100%;
+}
+
+.honrix-entries .posts article .post-thumbnail img {
+  display: block;
+  transition: 2s;
+  -webkit-transition: 2s;
+  -moz-transition: 2s;
+  -o-transition: 2s;
+  transform: scale(1.01);
+  -webkit-transform: scale(1.01);
+  -moz-transform: scale(1.01);
+  -o-transform: scale(1.01);
+  height: auto;
+}
+
+.honrix-entries .posts article:hover .post-thumbnail img {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.honrix-entries
+  .posts
+  article
+  .post-thumbnail
+  .honrix-gallery-slider
+  button.slick-prev {
+  left: 1px;
+}
+
+.honrix-entries .posts article .honrix-line {
+  width: 50%;
+  height: 1px;
+  margin: 0 auto 15px auto;
+  opacity: 0.3;
+}
+
+.honrix-entries .posts article .entry-categories a {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 700
+}
+
+.honrix-entries .posts article .entry-categories a:not(:last-child)::after {
+  content: ".";
+  padding: 0 10px;
+  font-weight: 400;
+}
+
+.honrix-entries .posts article .entry-title {
+  margin-top: 0;
+}
+
+.honrix-entries .posts article .entry-title span{
+  padding-right: 15px;
+}
+
+.honrix-entries .posts article .entry-title a {
+  text-transform: capitalize;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.honrix-entries .posts article .entry-content {
+  font-size: 13px;
+  
+}
+
+.honrix-entries .posts article .entry-content p {
+  margin: 0;
+  line-height: 23px;
+}
+
+.honrix-entries .posts article .entry-author img {
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+}
+
+.honrix-entries .posts article .entry-author .author-name a {
+  text-decoration: none;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.honrix-entries .posts article .entry-read-more {
+  border-bottom: 1px solid #aaa;
+}
+
+.honrix-entries .posts article .entry-read-more a {
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 15px;
+  letter-spacing: 1px;
+  background: transparent;
+  padding: 0;
+  border: none;
+}
+
+.honrix-entries .posts article .entry-body{
+  border-bottom: 1px solid #aaa;
+}

@@ -1,0 +1,778 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jagif - WooCommerce Free Gift\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-13 08:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: jagif-woo-free-gift"
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:702
+msgid " and have product "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:725
+msgid " and have product with category "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:712
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:731
+msgid " or "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:700
+msgid " product "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:723
+msgid " product with category "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"<strong>Jagif - WooCommerce Free Gift</strong> allows creating gift pack and "
+"giving them according to the rules you create when customers buy products."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-detail-rule.php:109
+msgid "Add Conditions(AND)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-popup-gift.php:33
+msgid "Add Gifts"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:261
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:262
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:297
+msgid "Add New"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:219
+msgid "Add new gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:298
+msgid "Add New Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:536
+msgid "After Add To Cart form"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:538
+msgid "After Price"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:149
+msgid "All Country"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:139
+msgid "All Product"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:296
+msgid "All Rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:170
+msgid "Are you want to delete this rule?"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:394
+msgid "Available Gift Pack ID"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:486
+msgid "Background color for gift icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:535
+msgid "Before Add To Cart form"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:537
+msgid "Before Price"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:539
+msgid "Before Product Tab"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:507
+msgid "Blank string"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:646
+msgid "Bottom Left"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:647
+msgid "Bottom Right"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:556
+msgid "Box Title"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:430
+msgid "Cart icon horizontal distance(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:410
+msgid "Cart icon vertical distance(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:144
+msgid "Cart Total Price"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:141
+msgid "Category Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1305
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1353
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1395
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1441
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:191
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:296
+msgid "Change"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:369
+msgid "Change icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:2057
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:2122
+msgid "Choose an option"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:167
+msgid ""
+"Choose countries to be gifted using \"INCLUDE\". If you want to exclude a "
+"few countries, choose \"EXCLUDE\". (You can add multiple country)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:168
+msgid ""
+"Choose coupons to be gifted using \"INCLUDE\". If you want to exclude a few "
+"coupons, choose \"EXCLUDE\". (You can add multiple coupon)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:91
+msgid "Choose gift pack: "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:374
+msgid "Choose icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:165
+msgid ""
+"Choose products to be gifted using \"INCLUDE\". If you want to exclude a few "
+"products, choose \"EXCLUDE\". (You can add multiple Product)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-popup-gift.php:4
+msgid "Choose your free gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:174
+msgid "Click on the gift title to see the product being gifted."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:216
+msgid "Close"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:112
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:277
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:174
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:281
+msgid "Close (Esc)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:470
+msgid "Color for gift icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:166
+msgid "Combine satisfying conditions in the cart to get a gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:745
+msgid "Continue shopping to get gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:145
+msgid "Count All Item In Cart"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:112
+msgid "Create new gift pack"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:820
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:835
+msgid "Custom CSS"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:364
+msgid "Custom icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:152
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:156
+msgid "Date"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:371
+msgid "Default"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-detail-rule.php:115
+msgid "Description"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:436
+msgid "Disable"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:501
+msgid "Display gift price on cart"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:142
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:185
+msgid "Drag and drop to set gift item order"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:299
+msgid "Edit Rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:359
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:434
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:147
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-detail-rule.php:22
+msgid "Enable"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:680
+msgid "Enable Auto Show Popup Gifts"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:163
+msgid "Enable link to gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:697
+msgid "Enable Popup Icon Box Shadow"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:395
+msgid "Enable Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:180
+msgid "Enable the gift description on cart"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:360
+msgid "Enable to use Type of override rule setting to select rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:160
+msgid "EXCLUDE"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-type-rule.php:8
+msgid "Exclude Category"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-type-rule.php:6
+msgid "Exclude Product"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:215
+msgid "Expand"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:570
+msgid "Font Size for Gift Box(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:450
+msgid "Font Size for Gift Icon(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:955
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:977
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1036
+msgid "Free"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:71
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1050
+msgid "Free Gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:153
+msgid "From"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:139
+msgid "General"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:972
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:993
+msgid "Gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:531
+msgid "Gift Box Position"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:508
+msgid "Gift icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:365
+msgid "Gift Icons should be square."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:609
+msgid "Gift Item Color"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:625
+msgid "Gift Name Hover Color"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:36
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:53
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:66
+msgid "Gift Pack"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-detail-rule.php:34
+msgid "Gift pack"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:224
+msgid "Go to Customize"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:162
+msgid "Greater than ( > )"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/jagif-woo-free-gift/"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:395
+msgid "Icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:320
+msgid "Icon Gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:705
+msgid "in cart"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:159
+msgid "INCLUDE"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-type-rule.php:9
+msgid "Include Category"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-type-rule.php:7
+msgid "Include Product"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:163
+msgid "Is equal to ( = )"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:186
+msgid "Is exists"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:251
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:252
+msgid "Jagif"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:134
+msgid "Jagif - Woo Free Gift Settings"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:307
+msgid "Jagif - Woo Gift Box"
+msgstr ""
+
+#. Name of the plugin
+msgid "Jagif - WooCommerce Free Gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:59
+msgid "jagif-gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:161
+msgid "Less than ( < )"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:300
+msgid "New Rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:138
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:303
+msgid "Next"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:372
+msgid "No icon selected"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:304
+msgid "No Rule found"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:305
+msgid "No Rule in Trash"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-popup-gift.php:38
+msgid "No Thanks"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:142
+msgid "On Sale Products"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:146
+msgid "Only Count Items That Satisfy In The Product Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1342
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:185
+msgid "Out of stock"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:178
+msgid "Out of stock."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:397
+msgid "Override priority"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:396
+msgid "Override status"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:39
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-min.php:38
+msgid "Pack: "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/jagif-woo-free-gift.php:54
+msgid ""
+"Please install and activate WooCommerce to use Jagif - WooCommerce Free Gift "
+"plugin."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:135
+msgid "Please select several products for this field."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:136
+msgid "Please select some categories for this field."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:137
+msgid "Please select some gift for this field."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:182
+msgid ""
+"Please select some gift options before adding this product to your cart."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/jagif-woo-free-gift.php:47
+msgid ""
+"Please update PHP version at least 7.0 to use Jagif - WooCommerce Free Gift "
+"plugin."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:540
+msgid "Popup"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:639
+msgid "Popup Gift Icon Position"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:664
+msgid "Popup Icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:773
+msgid "Popup Icon Background"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:757
+msgid "Popup Icon Color"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:805
+msgid "Popup Icon Count Background"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:789
+msgid "Popup Icon Count Text Color"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:714
+msgid "Popup Icon Horizontal(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:736
+msgid "Popup Icon Vertical(px)"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:348
+msgid "Position"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:127
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/popup_gift_content.php:292
+msgid "Previous"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:505
+msgid "Price 0"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:373
+msgid "Priority"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:140
+msgid "Product Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:139
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:246
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-content-1.php:309
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-gift-min.php:79
+msgid "Qty: "
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:163
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:198
+msgid "Quantity:"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:370
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:140
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:183
+msgid "Remove"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:150
+msgid "Remove rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:184
+msgid "Remove this product"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/templates/jagif-template-detail-rule.php:77
+msgid "Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:374
+msgid "Rule with enable override and have high priority will choose to use"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:293
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:294
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:295
+msgid "Rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:306
+msgid "Rules List"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:232
+msgid "Save"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:303
+msgid "Search Rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:368
+msgid "Select gift icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:373
+msgid "Select icon"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:147
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/product.php:190
+msgid "Select product:"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:200
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:201
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:270
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:271
+msgid "Settings"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:191
+msgid "Show all available gifts."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:334
+msgid "Show on shop page"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:519
+msgid "Single Product"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:155
+msgid "Specific date"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:506
+msgid "Text \"Free\""
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:557
+msgid "The title of gift box"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:157
+msgid "Time"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:593
+msgid "Title Box Color"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:154
+msgid "To"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:644
+msgid "Top Left"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/design.php:645
+msgid "Top Right"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:143
+msgid "Total Item In Cart"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:197
+msgid "Types of overriding rules"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:179
+msgid "Updated"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:211
+msgid "Use global rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:208
+msgid "Use global rule and single gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:205
+msgid "Use single gift"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:301
+msgid "View Rule"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:302
+msgid "View Rules"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:218
+msgid ""
+"When a product has multi gifts(single product gift and rule gift), gift "
+"created by rule which has the highest priority will be selected."
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:216
+msgid ""
+"When product have multi gift(single product gift and rule gift) available, "
+"single gift and gift of rule have highest priority will be selected"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:214
+msgid ""
+"When product have multi gift(single product gift and rule gift) available, "
+"single gift will be selected"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1341
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/frontend/frontend.php:1430
+msgid "X"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/includes/functions.php:747
+msgid "You will be eligible for free gift if you will have"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:768
+msgid "Your rule need to add at least one condition to work!"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/admin.php:788
+msgid "Your rule need to add at least one gift pack to work!"
+msgstr ""
+
+#: E:/git-change/FREE-VERSION/jagif-woo-free-gift/jagif-woo-free-gift/admin/settings.php:40
+msgid "Your settings have been saved!"
+msgstr ""
